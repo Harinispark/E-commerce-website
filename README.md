@@ -40,20 +40,13 @@ The app is focused on frontend UI + fake API integration.
 
 You can use this project as a starter for real e-commerce apps later!
 
-
-📚 Learn More
-
-React Documentation
-
-Create React App Docs
-
-Fake Store API
-
-
 🙋‍♀️ Developed by
 Harini M
 📧 harinimohan1969@gmail.com
 🔗 GitHub – Harinispark
+
+📌 License
+This project is for educational purposes and does not include any commercial payment system or backend database.
 
 
 
